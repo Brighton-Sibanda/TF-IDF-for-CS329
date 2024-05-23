@@ -25,7 +25,7 @@ def extract_keywords(text, num_keywords):
 
     return top_keywords
 
-# Example usage
+# We can test here
 text = """
 In the matter before the court today, the plaintiff, John Doe, alleges that the defendant, Jane Smith, breached the terms of their contract. 
 The contract in question pertains to the sale of a property located at 123 Maple Street. The plaintiff contends that the defendant failed to 
